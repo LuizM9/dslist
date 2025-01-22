@@ -1,4 +1,4 @@
-package entities;
+package com.luizm9.dslist.entities;
 
 import jakarta.persistence.*;
 

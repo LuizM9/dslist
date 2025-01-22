@@ -1,7 +1,7 @@
 package com.luizm9.dslist.dto;
 
 
-import entities.Game;
+import com.luizm9.dslist.entities.Game;
 
 public class GameMinDTO {
     private Long id;
